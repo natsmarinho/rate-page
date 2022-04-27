@@ -12,7 +12,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - Continued development: I have to continue practice how to use the responsive page. 
   - Useful resources: https://www.w3schools.com/cssref/css3_pr_mediaquery.asp?msclkid=b19e7776c67511ecb597332cb3c06465
 - Author: Natali Marinho
-- Acknowledgments: javascript, css and html.]
+- Acknowledgments: javascript, css and html.
 
 ### The challenge
 
