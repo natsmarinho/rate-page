@@ -4,14 +4,14 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview]
+- Overview
   - The challenge: the challenge is to build out this interactive rating component and get it looking as close to the design as possible.
 - My process: It took me 5 days to build this.
-  - [Built with](#HTML5 #CSS3 #JAVASCRIPT.)
+  - Built with: #HTML5 #CSS3 #JAVASCRIPT
   - What I learned: I've learned how to use display block none in one <section> and then showing up after clicking on the submit button. And also I've learned more how to built a responsive page.
   - Continued development: I have to continue practice how to use the responsive page. 
   - Useful resources: https://www.w3schools.com/cssref/css3_pr_mediaquery.asp?msclkid=b19e7776c67511ecb597332cb3c06465
-- [Author](Natali Marinho)
+- Author: Natali Marinho
 - Acknowledgments: javascript, css and html.]
 
 ### The challenge
