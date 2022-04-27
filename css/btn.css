@@ -1,0 +1,102 @@
+.btn-rate{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    font-size: 16px;
+    background: hsl(223, 6%, 23%);
+    color: hsl(216, 12%, 54%);
+    border: none;
+    margin-bottom: 25px;
+    margin-right: 18px;
+}
+
+.btn-rate:hover, .btn-rate:active, .btn-rate:focus{
+    background: hsl(216, 12%, 54%);
+    color: white;
+    width: 50px;
+    height: 50px;
+    font-size: 15px;
+    transition: .1s;
+}
+
+.btn-star{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: hsl(223, 6%, 23%);
+    border: none;
+    margin-bottom: 28px;
+    margin-right: 260px;
+    margin-top: 20px;
+}
+
+.btn-saida{
+    margin-bottom: 15px;
+    padding: 10px 115px 10px 115px;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    font-family: 'Overpass';
+    color: white;
+    font-weight: 700;
+    background: hsl(25,97%, 53%);
+}
+
+.btn-saida:hover{
+    color:hsl(25, 97%, 53%);
+    background-color: white;
+}
+
+@media only screen and (min-width: 412px){
+    .btn-star{
+        margin-right: 310px;
+    }
+ 
+    .btn-rate{
+        width: 45px;
+        height: 45px;
+    }
+    .btn-saida{
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+ }
+
+@media only screen and (max-width: 800px){
+    .btn-star{
+        margin-right: 100px;
+    }
+ 
+    .btn-rate{
+        width: 45px;
+        height: 45px;
+    }
+    .btn-saida{
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+ }
+ 
+ @media only screen and (min-width: 801px){
+    .btn-star{
+        margin-right: 310px;
+    }
+ 
+    .btn-rate{
+        width: 45px;
+        height: 45px;
+    }
+    .btn-rate:hover, .btn-rate:active, .btn-rate:focus{
+        background: hsl(216, 12%, 54%);
+        color: white;
+        width: 50px;
+        height: 50px;
+        font-size: 15px;
+        transition: .1s;
+    }
+    .btn-saida{
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+ }
+ 

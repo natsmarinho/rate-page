@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="script.js"></script>
+  
+  <title>Frontend Mentor | Interactive rating component</title>
+</head>
+<body>
+
+ 
+<section id="entrada">
+    <div class="star">
+        <button class="btn-star">
+     <img src="./imagens/icon-star.svg" alt="Ícone estrela">
+    </button>
+ </div>
+    <div class="text">
+        <div class="titulo">
+  <h1>How did we do?</h1><br>
+</div>
+
+  <p>Please let us know how we did with your support request. All feedback is appreciated 
+  to help us improve our offering!</p>
+</div>
+
+<div class="botoes">
+  <button id ="rate1"  class="btn-rate" value="1" onclick="entrada1(value)">1</button>
+  <button id ="rate2" class="btn-rate" value="2" onclick="entrada2(value)">2</button>
+  <button id ="rate3" class="btn-rate" value="3" onclick="entrada3(value)">3</button> 
+  <button id ="rate4" class="btn-rate" value="4" onclick="entrada4(value)">4</button>
+  <button id ="rate5" class="btn-rate" value="5" onclick="entrada5(value)">5</button>
+  <br>
+
+ <button class="btn-saida" id="btn-sub" onclick="saida()">SUBMIT</button>
+</div>
+</section>
+
+<section id="greetings" class="agradecimentos">
+  <div class="img">
+      <img class="img-g" src="./imagens/illustration-thank-you.svg" alt="Ilustração ícone thank you">
+      <div class="rate"><p id="rating"></p></div>
+      <div class="text-greeting">
+          <h2>Thank you! </h2>
+          <p class="text-final">We appreciate you taking the time to give a rating. If you ever need more support, 
+              don’t hesitate to get in touch!</p>
+      </div>
+  </div>
+</section>
+</body>
+</html>

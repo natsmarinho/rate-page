@@ -1,0 +1,33 @@
+.agradecimentos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.img-g{
+    margin-top: 20px;
+}
+
+.rate{
+    border: none;
+    background: hsl(223, 6%, 23%);
+    color: rgb(209, 104, 28);
+    padding-top: 8px;
+    padding-bottom: 5px;
+    background-position: center;
+    margin: 25px 68px 30px 68px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.text-final{
+    font-size: 14px;
+    color: hsl(217, 12%, 63%);
+    margin-bottom: 20px;
+}
