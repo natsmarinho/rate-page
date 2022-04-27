@@ -24,10 +24,10 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-Tela 1: (./imagens/tela1.png)
-Tela 2: (./imagens/tela2.png)
-Tela 3: (./imagens/tela3.png)
-Tela 4: (./imagens/tela4.png)
+![Tela1](./imagens/tela1.png)
+![Tela2](./imagens/tela2.png)
+![Tela3](./imagens/tela3.png)
+![Tela4](./imagens/tela4.png)
 
 
 ### Links
